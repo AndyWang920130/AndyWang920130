@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndyWang920130
+- 👋 Hi, I’m Andy
 - 👀 I’m interested in coding, complete the project More efficiently
 - 🌱 I’m currently learning front project
 - 💞️ I’m looking to collaborate on GUI designer
